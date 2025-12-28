@@ -29,7 +29,7 @@ En este perfil comparto **proyectos propios**, desarrollados con foco en buenas 
 ### 🚗 Concesionaria de Autos y Motos
 
 <a href="https://github.com/TomasMascotena/Concesionaria-de-Autos-y-Motos">
-  <img src="https://raw.githubusercontent.com/TomasMascotena/Concesionaria-de-Autos-y-Motos/main/assets/preview1.png" width="900"/>
+  <img src="https://raw.githubusercontent.com/TomasMascotena/Concesionaria-de-Autos-y-Motos/main/assets/preview1.png" width="700"/>
 </a>
 
 Proyecto desarrollado en **Java**, enfocado en la aplicación de **Programación Orientada a Objetos**. Modela el funcionamiento de una concesionaria mediante clases, herencia, clases abstractas e interfaces, priorizando una estructura clara y una lógica de negocio coherente.
